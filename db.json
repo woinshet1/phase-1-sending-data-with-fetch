@@ -21,7 +21,48 @@
       "id": 2
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "name": "Woinshet",
+      "email": "email@email.com",
+      "id": 1
+    },
+    {
+      "name": "John",
+      "email": "email@email.com",
+      "id": 2
+    },
+    {
+      "name": "Jack",
+      "email": "email@email.com",
+      "id": 3
+    },
+    {
+      "name": "Carlos",
+      "email": "email@emamil.com",
+      "id": 4
+    },
+    {
+      "name": "Keane",
+      "email": "email@email.com",
+      "id": 5
+    },
+    {
+      "name": "Wayne",
+      "email": "email@email.com",
+      "id": 6
+    },
+    {
+      "name": "Amanda",
+      "email": "email@emamil.com",
+      "id": 7
+    },
+    {
+      "name": "Mike",
+      "email": "email@email.com",
+      "id": 8
+    }    
+  ],
   "robots": [{
     "robotName": "C8-09S100K",
     "robotType": "Human Assistant",
